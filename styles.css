@@ -1,0 +1,9 @@
+.box{
+    list-style-type: square;
+}
+#ring
+{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
